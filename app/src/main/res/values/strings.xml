@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CollaRGB</string>
+
+
+    <!-- DEBUGGING -->
+    <string name="title_1">TITLE.1</string>
+    <string name="title_2">TITLE.2</string>
+    <string name="title_3">TITLE.3</string>
+    <string name="title_4">TITLE.4</string>
+    <string name="single">SINGLE</string>
+    <string name="per_led">PER-LED</string>
+
+</resources>
