@@ -9,5 +9,7 @@
     <string name="title_4">TITLE.4</string>
     <string name="single">SINGLE</string>
     <string name="per_led">PER-LED</string>
+    <string name="off">OFF</string>
+    <string name="_100">100%</string>
 
 </resources>
