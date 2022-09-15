@@ -32,10 +32,10 @@ class HomeActivity : AppCompatActivity() {
 
         mCardAdapter = CardPagerAdapter()
 
-        mCardAdapter!!.addCardItem(CardItem(applicationContext, "title.1", R.drawable.ic_android_black_24))
-        mCardAdapter!!.addCardItem(CardItem(applicationContext, "title.2", R.drawable.ic_android_black_24))
-        mCardAdapter!!.addCardItem(CardItem(applicationContext, "title.3", R.drawable.ic_android_black_24))
-        mCardAdapter!!.addCardItem(CardItem(applicationContext, "title.4", R.drawable.ic_android_black_24))
+        mCardAdapter!!.addCardItem(CardItem(applicationContext, "title.1", R.drawable.choker))
+        mCardAdapter!!.addCardItem(CardItem(applicationContext, "title.2", R.drawable.choker))
+        mCardAdapter!!.addCardItem(CardItem(applicationContext, "title.3", R.drawable.choker))
+        mCardAdapter!!.addCardItem(CardItem(applicationContext, "title.4", R.drawable.choker))
 
         mFragmentCardAdapter = CardFragmentPagerAdapter(
             supportFragmentManager,
