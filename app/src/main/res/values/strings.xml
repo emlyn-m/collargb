@@ -11,5 +11,6 @@
     <string name="per_led">PER-LED</string>
     <string name="off">OFF</string>
     <string name="_100">100%</string>
+    <string name="bolt_battery">⚡ %1$s\%%</string>
 
 </resources>

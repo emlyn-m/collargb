@@ -40,7 +40,7 @@
         android:clipToPadding="false"
         android:overScrollMode="never"
         android:paddingBottom="30dp"
-        app:layout_constraintDimensionRatio="1"
+        app:layout_constraintDimensionRatio=".95"
         android:padding="45dp"
         android:layout_marginStart="10dp"
         android:layout_marginEnd="10dp"
